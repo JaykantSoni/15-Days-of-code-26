@@ -22,3 +22,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 2) solved leetcode problem - 153. Find Minimum in Rotated Sorted Array
 3)completed git and github video from code and chai -https://www.youtube.com/watch?v=q8EevlEpQ2A&t=1899s
 4) solved Minimum in Rotated Sorted Array problem on geekforgeeks - https://www.geeksforgeeks.org/problems/rotation4723/1
+
+#DAY -2 (13 May)
+1) solved leetcode problem 162 -https://leetcode.com/problems/find-peak-element/description/
+2)solved leetcode problem 69 - https://leetcode.com/problems/sqrtx/?envType=problem-list-v2&envId=binary-search
+3)solved Find nth root of m on geekforgeeks - https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1
+
+
