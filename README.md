@@ -46,3 +46,18 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1
 
 
+---
+
+## DAY-3 (14 May)
+
+1. Solved LeetCode Problem 875 - Koko eating bananas
+   https://leetcode.com/problems/koko-eating-bananas/description/
+
+2. Solved LeetCode Problem 1482 -Minimum Number of Days to Make m Bouquets
+   https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
+
+3. Solved LeetCode Problem 1283 - find the smallest divisor given a threshold
+   https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/
+
+4. watched css tutorial 
+  
