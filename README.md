@@ -59,5 +59,5 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 3. Solved LeetCode Problem 1283 - find the smallest divisor given a threshold
    https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/
 
-4. watched css tutorial 
-  
+4. Watched css tutorial (Starting WebD)
+   https://www.youtube.com/watch?v=K1naz9wBwKU
