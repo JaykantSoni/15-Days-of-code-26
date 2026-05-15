@@ -61,3 +61,20 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Watched css tutorial (Starting WebD)
    https://www.youtube.com/watch?v=K1naz9wBwKU
+
+   ---
+
+## DAY-4 (15 May)
+
+1. Solved LeetCode Problem 1011 - Capacity To Ship Packages Within D Days
+   https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
+
+2. Solved LeetCode Problem 1539. Kth Missing Positive Number
+   https://leetcode.com/problems/kth-missing-positive-number/description/
+
+3. Watched around half css tutorial (Starting WebD) - Responsive Web Development Complete Course for Beginners
+   https://www.youtube.com/watch?v=J_r6hBo9lO4
+
+   (I was not able to do much because I was not at my home, but from tomorrow onwards I will do my best.)
+
+
