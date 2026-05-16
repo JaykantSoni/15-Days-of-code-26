@@ -77,4 +77,21 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
    (I was not able to do much because I was not at my home, but from tomorrow onwards I will do my best.)
 
+   ---
 
+## DAY-5 (16 May)
+
+1. Solved Binary search problem -Aggressive Cows(I couldn't do it by myself, so I had to watch the video solution.)
+   https://www.geeksforgeeks.org/problems/aggressive-cows/1?utm_source=chatgpt.com
+
+2. Solved LeetCode Problem 1552. Magnetic Force Between Two Balls(solved similar problem for better understanding)
+   https://leetcode.com/problems/magnetic-force-between-two-balls/
+
+3. Solved Binary search problem on geekforgeeks-Allocate Minimum Pages
+   https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
+
+4. Solved Binary search problem 410. Split Array Largest Sum
+   https://leetcode.com/problems/split-array-largest-sum/description/
+
+5. Watched  css tutorial (Starting WebD) - Responsive Web Development Complete Course for Beginners
+   https://www.youtube.com/watch?v=J_r6hBo9lO4
