@@ -75,8 +75,6 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 3. Watched around half css tutorial (Starting WebD) - Responsive Web Development Complete Course for Beginners
    https://www.youtube.com/watch?v=J_r6hBo9lO4
 
-   (I was not able to do much because I was not at my home, but from tomorrow onwards I will do my best.)
-
    ---
 
 ## DAY-5 (16 May)
@@ -95,3 +93,16 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 5. Watched  css tutorial (Starting WebD) - Responsive Web Development Complete Course for Beginners
    https://www.youtube.com/watch?v=J_r6hBo9lO4
+
+  ---
+
+## DAY-6 (17 May)
+
+1. Solved The Painter's Partition Problem on geekforgeeks
+   https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
+
+2. Solved LeetCode Problem 4. Median of Two Sorted Arrays(this question took my most of the time)
+   https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+
+3. Watched Tailwind CSS v4 Full Course and practised more html and css
+   https://www.youtube.com/watch?v=6biMWgD6_JY&t=2863s
