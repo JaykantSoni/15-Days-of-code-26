@@ -106,3 +106,25 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 3. Watched Tailwind CSS v4 Full Course and practised more html and css
    https://www.youtube.com/watch?v=6biMWgD6_JY&t=2863s
+
+     ---
+
+## DAY-7 (18 May)
+
+1. Watched lovebabbar 2D arrays video-
+   https://www.youtube.com/watch?v=1CdolnvxLs0&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=25
+
+2. Solved quesiton of 2D array on coding ninja -  Print Like A Wave
+   https://www.naukri.com/code360/problems/print-like-a-wave_893268?utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_6&leftPanelTabValue=SUBMISSION
+
+3. Solved leetcode problem - 54. Spiral Matrix
+   https://leetcode.com/problems/spiral-matrix/
+
+4. Solved leetcode problem - 74. Search a 2D Matrix
+   https://leetcode.com/problems/search-a-2d-matrix/description/
+
+5. Solved leetcode problem - 240. Search a 2D Matrix II
+   https://leetcode.com/problems/search-a-2d-matrix-ii/description/
+
+6. Solved leetcode problem - 59. Spiral Matrix II
+   https://leetcode.com/problems/spiral-matrix-ii/description/
