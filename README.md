@@ -128,3 +128,19 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 6. Solved leetcode problem - 59. Spiral Matrix II
    https://leetcode.com/problems/spiral-matrix-ii/description/
+
+   ## DAY-8 (19 May)
+
+1. Watched HTML & CSS Guide for Beginners - Creating a website with the help of this video
+   https://www.youtube.com/watch?v=QRrPE9aj3wI
+
+2. learned about pointers(studied but have some doubts watvhing this for revision) Part-1
+   https://www.youtube.com/watch?v=YHwEIfrXZgE&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=29
+
+3. Learned about pointers part-2
+   https://www.youtube.com/watch?v=rlpw7oi-bpE&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=29
+
+4. Solved leetcode problem -50. Pow(x, n)
+   https://leetcode.com/problems/spiral-matrix-ii/description/
+
+   (Not able to solve much problems because of some family work)
