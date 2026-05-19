@@ -143,4 +143,4 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 4. Solved leetcode problem -50. Pow(x, n)
    https://leetcode.com/problems/spiral-matrix-ii/description/
 
-   (Not able to solve much problems because of some family work)
+   (Not able to solve much problems because i was busy for some family work)
