@@ -147,7 +147,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    
      ---
 
-## DAY-6 (17 May)
+## DAY-9 (20 May)
 
 1. Watched video of Double Pointers in C++
    https://www.youtube.com/watch?v=P0UsAxtXq2Y&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=30
