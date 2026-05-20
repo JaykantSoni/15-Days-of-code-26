@@ -131,7 +131,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
     ---
 
-   ## DAY-8 (19 May)
+## DAY-8 (19 May)
 
 1. Watched HTML & CSS Guide for Beginners - Creating a website with the help of this video
    https://www.youtube.com/watch?v=QRrPE9aj3wI
