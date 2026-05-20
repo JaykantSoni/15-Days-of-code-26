@@ -144,3 +144,22 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    https://leetcode.com/problems/spiral-matrix-ii/description/
 
    (Not able to solve much problems because i was busy for some family work)
+   
+     ---
+
+## DAY-6 (17 May)
+
+1. Watched video of Double Pointers in C++
+   https://www.youtube.com/watch?v=P0UsAxtXq2Y&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=30
+
+2. Solved LeetCode Problem 238. Product of Array Except Self
+   https://leetcode.com/problems/product-of-array-except-self/description/
+
+3. Solved LeetCode Problem 15. 3Sum (not able to completely solve it by myself)
+   https://leetcode.com/problems/3sum/description/
+
+4. Watched Lecture28: Reference Variable | Static vs Dynamic Memory | Part-1
+   https://www.youtube.com/watch?v=MMO2c57XHzM
+
+5. watched Lecture29: Dynamic Memory Allocation of 2D Arrays
+   https://www.youtube.com/watch?v=LlqgWQgm58g
