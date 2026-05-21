@@ -165,3 +165,21 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 5. watched Lecture29: Dynamic Memory Allocation of 2D Arrays
    https://www.youtube.com/watch?v=LlqgWQgm58g
+
+     ---
+
+## DAY-10 (21 May)
+
+1. Watched video of Macros, Global Variables, Inline Functions & Default Args
+   https://www.youtube.com/watch?v=0TEvaAiqo8Y
+
+2. Solved LeetCode Problem 509. Fibonacci Number
+   https://leetcode.com/problems/fibonacci-number/description/
+
+3. Solved LeetCode Problem 344. Reverse String
+   https://leetcode.com/problems/reverse-string/description/?utm_source=chatgpt.com
+
+4. Solved LeetCode Problem 1752. Check if Array Is Sorted and Rotated
+   https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?utm_source=chatgpt.com
+
+   (Watched lovebabbar recursion playlist )
