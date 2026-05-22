@@ -183,3 +183,19 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?utm_source=chatgpt.com
 
    (Watched lovebabbar recursion playlist )
+
+        ---
+
+## DAY-11 (22 May)
+
+1. Watched video of  Merge Sort using Recursion
+   https://www.youtube.com/watch?v=cdHEpbBVjRM&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=39
+
+2. Solved LeetCode Problem 78. Subsets
+   https://leetcode.com/problems/subsets/description/
+
+3. Solved Subsequences of String on coding ninjas
+   https://www.naukri.com/code360/problems/subsequences-of-string_985087?utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
+
+4. Watched  Quick Sort using Recursion
+   https://www.youtube.com/watch?v=sNaHN4tZmRk&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=41
