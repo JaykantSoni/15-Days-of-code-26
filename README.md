@@ -199,3 +199,22 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Watched  Quick Sort using Recursion
    https://www.youtube.com/watch?v=sNaHN4tZmRk&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=41
+
+      ---
+
+## DAY-12 (23 May)
+
+1. Solved LeetCode Problem 17. Letter Combinations of a Phone Number(my strings topic is weak i watched solution of this problem)
+   https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+
+2. Solved LeetCode Problem 46. Permutations
+   https://leetcode.com/problems/permutations/description/
+
+3. Solved All String Permutations in Sorted Order on geekforgeeks
+   https://www.geeksforgeeks.org/problems/permutations-of-a-given-string-1587115620/1
+
+4. Watched CSS Grid Course
+   https://www.youtube.com/watch?v=JYfiaSKeYhE
+
+5. Watched Learn CSS Animations 
+   https://www.youtube.com/watch?v=z2LQYsZhsFw
