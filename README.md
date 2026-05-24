@@ -218,3 +218,18 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 5. Watched Learn CSS Animations 
    https://www.youtube.com/watch?v=z2LQYsZhsFw
+
+     ---
+
+## DAY-13 (24 May)
+
+1. Solved rat in a maze problem on geekforgeeks
+   https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1?utm_source=chatgpt.com
+
+2. Today i give my first leetcode contest
+
+3. Solved LeetCode Problem 3940. Limit Occurrences in Sorted Array
+   https://leetcode.com/problems/limit-occurrences-in-sorted-array/description/
+
+4. Solved LeetCode Problem 3941. Password Strength
+   https://leetcode.com/problems/password-strength/description/
