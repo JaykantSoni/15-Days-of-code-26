@@ -233,3 +233,18 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Solved LeetCode Problem 3941. Password Strength
    https://leetcode.com/problems/password-strength/description/
+
+     ---
+
+## DAY-14 (25 May)
+
+1. Solved 47. Permutations II
+   https://leetcode.com/problems/permutations-ii/description/?utm_source=chatgpt.com
+
+2. Watched OOPs Concepts in C++ || Part-1
+   https://www.youtube.com/watch?v=i_5pvt7ag7E&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=47
+
+3. Watched 4 Pillars of OOPs Concept -Inheritance, Polymorphism, Encapsulation & Abstraction
+   https://www.youtube.com/watch?v=b3GccK5_KSQ&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=47
+
+4. Started java script from chai aur code
