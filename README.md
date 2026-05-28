@@ -25,10 +25,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 2. Solved LeetCode Problem 153 — Find Minimum in Rotated Sorted Array  
    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
-3. Completed Git and GitHub Video (Code & Chai)  
-   https://www.youtube.com/watch?v=q8EevlEpQ2A&t=1899s
-
-4. Solved Minimum in Rotated Sorted Array (GeeksforGeeks)  
+3. Solved Minimum in Rotated Sorted Array (GeeksforGeeks)  
    https://www.geeksforgeeks.org/problems/rotation4723/1
 
 
@@ -91,9 +88,6 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 4. Solved Binary search problem 410. Split Array Largest Sum
    https://leetcode.com/problems/split-array-largest-sum/description/
 
-5. Watched  css tutorial (Starting WebD) - Responsive Web Development Complete Course for Beginners
-   https://www.youtube.com/watch?v=J_r6hBo9lO4
-
   ---
 
 ## DAY-6 (17 May)
@@ -103,9 +97,6 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 2. Solved LeetCode Problem 4. Median of Two Sorted Arrays(this question took my most of the time)
    https://leetcode.com/problems/median-of-two-sorted-arrays/description/
-
-3. Watched Tailwind CSS v4 Full Course and practised more html and css
-   https://www.youtube.com/watch?v=6biMWgD6_JY&t=2863s
 
      ---
 
@@ -188,17 +179,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 ## DAY-11 (22 May)
 
-1. Watched video of  Merge Sort using Recursion
-   https://www.youtube.com/watch?v=cdHEpbBVjRM&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=39
 
-2. Solved LeetCode Problem 78. Subsets
+1. Solved LeetCode Problem 78. Subsets
    https://leetcode.com/problems/subsets/description/
 
-3. Solved Subsequences of String on coding ninjas
+2. Solved Subsequences of String on coding ninjas
    https://www.naukri.com/code360/problems/subsequences-of-string_985087?utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
-
-4. Watched  Quick Sort using Recursion
-   https://www.youtube.com/watch?v=sNaHN4tZmRk&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=41
 
       ---
 
@@ -259,4 +245,3 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 2. Watched Lecture 44: Linked List & its types - Singly, Doubly, Circular etc.
    https://www.youtube.com/watch?v=q8gdBn9RPeI&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=48
 
-3. Learned about arrays in javascript by chai aur code
