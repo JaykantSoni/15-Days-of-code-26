@@ -245,3 +245,20 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 2. Watched Lecture 44: Linked List & its types - Singly, Doubly, Circular etc.
    https://www.youtube.com/watch?v=q8gdBn9RPeI&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=48
 
+     ---
+     ---
+
+## PART-2 
+
+1. Solved leetcode problem -137. Single Number II
+   https://leetcode.com/problems/single-number-ii/description/
+
+2. Solved  XOR of Numbers in a Given Range | Bit Manipulation
+   https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1
+
+3. Solved leetcode problem-5. Longest Palindromic Substring
+   https://leetcode.com/problems/longest-palindromic-substring/description/
+
+4. Solved leetcode problem-1781. Sum of Beauty of All Substrings
+   https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/
+
