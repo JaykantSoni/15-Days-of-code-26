@@ -264,3 +264,21 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 4. Solved leetcode problem-1781. Sum of Beauty of All Substrings
    https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/
 
+     ---
+
+## DAY-2(16 June)
+
+1. Solved leetcode problem -3612. Process String with Special Operations I
+   https://leetcode.com/problems/process-string-with-special-operations-i/description/?envType=daily-question&envId=2026-06-16
+
+2. Solved leetcode problem -2130. Maximum Twin Sum of a Linked List
+   https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/
+
+3. Solved leetcode problem -1021. Remove Outermost Parentheses
+   https://leetcode.com/problems/remove-outermost-parentheses/description/
+
+4. Solved leetcode problem -3. Longest Substring Without Repeating Characters
+   https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+5. Started Stack and Queue
+   https://www.youtube.com/watch?v=tqQ5fTamIN4&list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c
