@@ -283,6 +283,8 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 5. Started Stack and Queue
    https://www.youtube.com/watch?v=tqQ5fTamIN4&list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c
 
+     ---
+
 ## DAY-3(17 June)
 
 1. Solved leetcode problem -349. Intersection of Two Arrays
@@ -299,3 +301,19 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 5. Watched L3. Prefix, Infix, and Postfix Conversion | Stack and Queue Playlist
    https://www.youtube.com/watch?v=4pIc9UBHJtk&list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c&index=3
+
+     ---
+
+## DAY-4(18 June)
+
+1. Solved leetcode problem -345. Reverse Vowels of a String
+   https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+
+2. Solved leetcode problem -2264. Largest 3-Same-Digit Number in String
+   https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/
+
+3. Solved leetcode problem -49. Group Anagrams
+   https://leetcode.com/problems/group-anagrams/description/
+
+4. Solved leetcode problem-1344. Angle Between Hands of a Clock
+   https://leetcode.com/problems/angle-between-hands-of-a-clock/description/?envType=daily-question&envId=2026-06-18
