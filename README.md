@@ -282,3 +282,20 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 5. Started Stack and Queue
    https://www.youtube.com/watch?v=tqQ5fTamIN4&list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c
+
+## DAY-3(17 June)
+
+1. Solved leetcode problem -349. Intersection of Two Arrays
+   https://leetcode.com/problems/intersection-of-two-arrays/description/
+
+2. Solved leetcode problem -3921. Score Validator
+   https://leetcode.com/problems/score-validator/description/
+
+3. Solved leetcode problem -1720. Decode XORed Array
+   https://leetcode.com/problems/decode-xored-array/description/
+
+4. Solved leetcode problem -20. Valid Parentheses
+   https://leetcode.com/problems/valid-parentheses/description/
+
+5. Watched L3. Prefix, Infix, and Postfix Conversion | Stack and Queue Playlist
+   https://www.youtube.com/watch?v=4pIc9UBHJtk&list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c&index=3
