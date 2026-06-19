@@ -317,3 +317,22 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Solved leetcode problem-1344. Angle Between Hands of a Clock
    https://leetcode.com/problems/angle-between-hands-of-a-clock/description/?envType=daily-question&envId=2026-06-18
+
+     ---
+
+## DAY-5(19 June)
+
+1. Solved leetcode problem -3264. Final Array State After K Multiplication Operations I
+   https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/
+
+2. Solved leetcode problem -2744. Find Maximum Number of String Pairs
+   https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/
+
+3. Solved leetcode problem -155. Min Stack
+   https://leetcode.com/problems/min-stack/description/
+
+4. Solved leetcode problem -496. Next Greater Element I
+   https://leetcode.com/problems/next-greater-element-i/description/
+
+5. Solved leetcode problem -503. Next Greater Element II
+   https://leetcode.com/problems/next-greater-element-ii/description/
