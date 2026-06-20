@@ -336,3 +336,22 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 5. Solved leetcode problem -503. Next Greater Element II
    https://leetcode.com/problems/next-greater-element-ii/description/
+
+     ---
+
+## DAY-6(20 June)
+
+1. Solved Next Smaller Element on coding ninjas
+   https://www.naukri.com/code360/problems/previous-smaller-element_1112581?utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
+
+2. Solved leetcode problem -42. Trapping Rain Water
+   https://leetcode.com/problems/trapping-rain-water/description/
+
+3. Solved leetcode problem -907. Sum of Subarray Minimums
+   https://leetcode.com/problems/sum-of-subarray-minimums/description/
+
+4. Solved leetcode problem -735. Asteroid Collision
+   https://leetcode.com/problems/asteroid-collision/description/
+
+5. Solved leetcode problem -860. Lemonade Change
+   https://leetcode.com/problems/lemonade-change/description/
