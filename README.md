@@ -355,3 +355,19 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 5. Solved leetcode problem -860. Lemonade Change
    https://leetcode.com/problems/lemonade-change/description/
+
+     ---
+
+## DAY-7(21 June)
+
+1. Solved leetcode problem - 1833. Maximum Ice Cream Bars
+   https://leetcode.com/problems/maximum-ice-cream-bars/description/?envType=daily-question&envId=2026-06-21
+
+2. Solved leetcode problem -3227. Vowels Game in a String
+   https://leetcode.com/problems/vowels-game-in-a-string/description/
+
+3. Solved leetcode problem -3969. Valid Subarrays With Matching Sum Digits I
+   https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/description/
+
+4. Solved leetcode problem -1189. Maximum Number of Balloons
+   https://leetcode.com/problems/maximum-number-of-balloons/description/?envType=daily-question&envId=2026-06-22
