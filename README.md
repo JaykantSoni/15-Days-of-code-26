@@ -371,3 +371,19 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Solved leetcode problem -1189. Maximum Number of Balloons
    https://leetcode.com/problems/maximum-number-of-balloons/description/?envType=daily-question&envId=2026-06-22
+
+     ---
+
+## DAY-8(22 June)
+
+1. Solved leetcode problem - 84. Largest Rectangle in Histogram
+   https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+
+2. Solved leetcode problem -85. Maximal Rectangle
+   https://leetcode.com/problems/maximal-rectangle/description/
+
+3. Solved leetcode problem -402. Remove K Digits
+   https://leetcode.com/problems/remove-k-digits/description/
+
+4. Solved leetcode problem -1673. Find the Most Competitive Subsequence
+   https://leetcode.com/problems/find-the-most-competitive-subsequence/description/
