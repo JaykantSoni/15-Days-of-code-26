@@ -387,3 +387,16 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Solved leetcode problem -1673. Find the Most Competitive Subsequence
    https://leetcode.com/problems/find-the-most-competitive-subsequence/description/
+
+     ---
+
+## DAY-9(23 June)
+
+1. Solved leetcode problem - 316. Remove Duplicate Letters
+   https://leetcode.com/problems/remove-duplicate-letters/description/?envType=problem-list-v2&envId=monotonic-stack
+
+2. Solved leetcode problem -239. Sliding Window Maximum
+   https://leetcode.com/problems/sliding-window-maximum/description/
+
+3. Solved leetcode problem -1004. Max Consecutive Ones III
+   https://leetcode.com/problems/max-consecutive-ones-iii/description/
