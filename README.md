@@ -400,3 +400,16 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 3. Solved leetcode problem -1004. Max Consecutive Ones III
    https://leetcode.com/problems/max-consecutive-ones-iii/description/
+
+     ---
+
+## DAY-10(24 June)
+
+1. Solved leetcode problem - 1423. Maximum Points You Can Obtain from Cards
+   https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/?utm_source=chatgpt.com
+
+2. Solved leetcode problem -904. Fruit Into Baskets
+   https://leetcode.com/problems/fruit-into-baskets/description/?utm_source=chatgpt.com
+
+3. Solved Coding ninjas -  Longest Substring with At Most K Distinct Characters
+   https://www.naukri.com/code360/problems/distinct-characters_2221410?utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
