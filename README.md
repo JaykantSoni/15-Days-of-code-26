@@ -426,3 +426,22 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 3. Solved Leetcode problem - 930. Binary Subarrays With Sum
    https://leetcode.com/problems/binary-subarrays-with-sum/submissions/2045828835/
+
+4. Solved Leetcode problem - 1248. Count Number of Nice Subarrays
+   https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+
+     ---
+
+## DAY-12(26 June)
+
+1. Solved leetcode problem - 992. Subarrays with K Different Integers
+   https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+
+2. Solved leetcode problem -3968. Maximum Manhattan Distance After All Moves
+   https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/description/
+
+3. Solved A. Halloumi Boxes on codeforces from cp31 sheet
+   https://codeforces.com/problemset/problem/1903/A
+
+4. Solved A. Line Trip on codeforces from cp31 sheet
+   https://codeforces.com/problemset/problem/1901/A
