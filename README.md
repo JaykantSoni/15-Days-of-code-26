@@ -413,3 +413,16 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 3. Solved Coding ninjas -  Longest Substring with At Most K Distinct Characters
    https://www.naukri.com/code360/problems/distinct-characters_2221410?utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
+
+     ---
+
+## DAY-11(25 June)
+
+1. Solved leetcode problem - 1358. Number of Substrings Containing All Three Characters
+   https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+
+2. Solved leetcode problem -424. Longest Repeating Character Replacement
+   https://leetcode.com/problems/longest-repeating-character-replacement/description/
+
+3. Solved Leetcode problem - 930. Binary Subarrays With Sum
+   https://leetcode.com/problems/binary-subarrays-with-sum/submissions/2045828835/
