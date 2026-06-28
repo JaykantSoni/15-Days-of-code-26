@@ -445,3 +445,19 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Solved A. Line Trip on codeforces from cp31 sheet
    https://codeforces.com/problemset/problem/1901/A
+
+     ---
+
+## DAY-13(27 June)
+
+1. Solved leetcode problem - 76. Minimum Window Substring
+   https://leetcode.com/problems/minimum-window-substring/description/
+
+2. Solved leetcode problem -643. Maximum Average Subarray I
+   https://leetcode.com/problems/maximum-average-subarray-i/description/
+
+3. Solved codeforces problem - C. Target Practice
+   https://codeforces.com/problemset/problem/1873/C
+
+4. Solved leetcode problem - 455. Assign Cookies
+   https://leetcode.com/problems/assign-cookies/description/
