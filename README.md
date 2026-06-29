@@ -461,3 +461,19 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Solved leetcode problem - 455. Assign Cookies
    https://leetcode.com/problems/assign-cookies/description/
+
+     ---
+
+## DAY-14(28 June)
+
+1. Solved problem on geekforgeeks - Shortest Job first 
+   https://www.geeksforgeeks.org/problems/shortest-job-first/1?utm_source=chatgpt.com
+
+2. Solved leetcode problem - 55. Jump Game
+   https://leetcode.com/problems/jump-game/description/
+
+3. Solved leetcode problem - 45. Jump Game II
+   https://leetcode.com/problems/jump-game-ii/description/ 
+
+4. Solved leetcode problem - 435. Non-overlapping Intervals
+   https://leetcode.com/problems/non-overlapping-intervals/description/
